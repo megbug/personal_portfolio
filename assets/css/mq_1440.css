@@ -1,0 +1,60 @@
+@media only screen and (min-width: 1220px) and (max-width: 1440px) {
+    /* =================================== 
+    main intro-n-img
+    =================================== */
+
+    main .intro-n-img {
+        margin: 10vh 10%;
+    }
+
+    main .intro-n-img article h1 {
+        width: 80%;
+        font-size: 9rem;
+    }
+    
+    /* =================================== 
+    main about-me
+    =================================== */
+
+    main .about-me {
+        margin: 20vh 10% 20vh 0;
+        padding: 5vh 0 3vh 10%;
+    }
+
+    /* =================================== 
+    main tech-stack
+    =================================== */
+
+    main .tech-stack {
+        margin: 20vh 0% 20vh 10%;
+    }
+
+    /* =================================== 
+    main career-path
+    =================================== */
+
+    main .career-path {
+        margin: 20vh 10%;
+    }
+
+    /* =================================== 
+    main project-gallery
+    =================================== */
+
+    main .project-gallery {
+        margin: 20vh 10%;
+    }
+
+    main .project-gallery .grid-gallery {
+        gap: 2vw;
+    }
+
+    /* =================================== 
+    main testimonials
+    =================================== */
+
+    main .testimonials {
+        margin: 20vh 10%;
+    }
+
+}
